@@ -1,0 +1,24 @@
+# App en ruby on rails
+
+
+
+Alis aplicacion echa para probar bootstrap
+
+
+
+       __
+  _   /  |   De: Josue Urban
+ | \  \/_/
+ \_\| / __
+    \/_/__\           .--='/~\
+____,__/__,_____,______)/   /{~}}}
+-,-----,--\--,-----,---,\'-' {{~}}
+     __/\_            '--=.\}/
+    /_/ |\\
+         \/
+
+
+
+
+
+Realizado por: Usuario josueurban
