@@ -2,10 +2,7 @@
 
 
 
-Alis aplicacion echa para probar bootstrap
-
-
-
+Alis una app para aprender y comprender  el funcionamiento de bootstrap :V
        __
   _   /  |   De: Josue Urban
  | \  \/_/
@@ -16,9 +13,4 @@ ____,__/__,_____,______)/   /{~}}}
      __/\_            '--=.\}/
     /_/ |\\
          \/
-
-
-
-
-
 Realizado por: Usuario josueurban
