@@ -1,23 +1,79 @@
-<center>
-<h1>Paginas#home</h1>
-<p>Find me in app/views/paginas/home.html.erb</p>
+<div class="container">
+<div  class="jumbotron center">
+<h1>  Welcome on Board  ;)</h1>
+    <%= image_tag "logo.png" %>
+</div>
+</div>
 
 
 
+<div class="container" class="row">
+
+
+<div class="center">
+  <%= image_tag "lol.jpg",  :width=>400, :height=>300 %>
+</div>
+
+</div>
+
+
+<br>
+</br>
+
+<div class="row" >
+  <div class="container">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <%= image_tag "estrellas.gif", :width=>234, :height=>304 %>
+
+
+      <div class="caption center">
+        <h3>Pienso...</h3>
+        <p>Me pregunto si las estrellas se iluminan con el fin de que algun día, cada uno pueda encontrar la suya.</p>
+
+      </div>
+
+    </div>
+  </div>
+
+
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail ">
+        <%= image_tag "yo.jpg", :width=>234, :height=>304 %>
+
+        <div class="caption center">
+          <h3>Siento...</h3>
+          <p>No me atreveria a navegar por el mar de tus miradas, se que me hundiria.</p>
+        </div>
+
+      </div>
+    </div>
+
+
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail ">
+            <%= image_tag "smile.gif", :width=>234, :height=>304 %>
+
+        <div class="caption center">
+          <h3>Digo...</h3>
+          <p>Sus pasos mis latidos, mientras mas lejos estas mas lento el corazon va...</p>
+        </div>
+
+      </div>
+    </div>
+
+</div> <!-- contenedor     -->
+</div>
+
+<div class="center">
+  <%= image_tag "piola.gif", :width=>500, :height=>100  %>
+</div>
 
 
 
+<footer >
+
+<%= render 'layouts/footer'%>
 
 
-
-__
-_   /  |   De: Josue Urban
-| \  \/_/
-\_\| / __
-\/_/__\           .--='/~\
-____,__/__,_____,______)/   /{~}}}
--,-----,--\--,-----,---,\'-' {{~}}
-__/\_            '--=.\}/
-/_/ |\\
-  \/
-</center>
+</footer>

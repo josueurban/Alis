@@ -1,1 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+$body-bg: rgba(236, 240, 241,1.0);
+$font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$navbar-default-bg: white;
+$jumbotron-bg: white;
+
+$navbar-default-brand-color:  #cb2129;
+$brand-primary: #cb2129;
+
 @import 'bootstrap';
+
+.center {
+  text-align: center;
+}
+.left {
+align-items: left;
+}
+.rigth {
+text-align: right;
+}
+
+
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+
+.bs-docs-footer {
+padding-top: 10px;
+padding-bottom: 50px;
+margin-top: 100px;
+color: #99979c;
+text-align: center;
+background-color: #2a2730;
+}
+
+.bs-docs-footer-links {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.bg {
+background-image: url(bg.jpg);
+}
